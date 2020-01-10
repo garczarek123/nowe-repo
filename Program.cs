@@ -10,6 +10,8 @@ namespace ConsoleApp4
 			Console.WriteLine("Implementacja nowej funkcjonalności projektu");
 			Console.WriteLine("Implementacja nowej funkcjonalności projektu");
 			Console.WriteLine("nowa zmiana użytkownika");
+			Console.WriteLine("nowa zamiana współużytkownika");
+
 		}
 	}
 }
