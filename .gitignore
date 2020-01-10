@@ -3,3 +3,4 @@ App.Config
 *.csproj
 Properties/
 obj/
+bin/
